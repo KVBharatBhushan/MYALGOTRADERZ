@@ -1,0 +1,4 @@
+#Use AnaConda, SPYDER to run your Py codes!
+
+Generate a python code that includes Super Trend, MACD, VOWP, EMA 20 & 50 with Risk:Reward=1:2 and more stronger signal to take action only when VOWP indicator more closer to Super Trend Indicator for Intraday Trading
+
